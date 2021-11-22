@@ -1,2 +1,2 @@
-# MLinAD
+# MLi
 Project of MLinAD CLASS
