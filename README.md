@@ -19,3 +19,5 @@ Project of MLinAD CLASS
 cv2의 채널 출력방식 BGR RGB(해결, cv2에서 GBR2RGB함수 제공)
 deeplabv3는 마스크 이미지가 추가로 필요함.
 torch.max()문제 (미해결, 모델에 관한 문제며, 마스크이미지가 필요한 문제)
+<br>
+주제변경 : 카메라로 인식후 gtts이용해 물체 표현 다만 물체의 위치를 시계방향으로 번역할 것(정면방향)
